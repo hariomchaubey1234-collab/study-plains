@@ -1,0 +1,8 @@
+{
+  "name": "Smart Study Flashcards - Scratch Suite",
+  "description": "Interactive Scratch flashcard engine, step-by-step block visualizer, engineering architecture, and viva presentation guide for Python study.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
